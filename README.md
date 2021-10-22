@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://cssbubble.github.io/Stats-preview-card-component/)
 
 
 ## My process
