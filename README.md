@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://your-solution-url.com)
+
 
 ## My process
  - I used grids to layout this page 
@@ -55,7 +55,6 @@ Learned a new css property of overlay of background color.
 
 I have to focus more on overlay property along with width and height of the box with respect to its container.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
